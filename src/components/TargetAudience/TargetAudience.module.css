@@ -1,7 +1,43 @@
 .targetAudience {
+  display: flex;
+  flex-direction: column;
   background: linear-gradient(0deg, #161616, #161616),
   linear-gradient(0deg, #515151, #515151);
-  height: 500px; 
+  color: white;
+  text-align: center;
 }
 
+.containerImagens {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.divImagensTextos {
+  display: flex;
+  flex-direction: column;
+}
+
+.divImagensTextos img {
+  margin-bottom: 40px;
+}
+
+.containerPublicoAlvo {
+  display: flex;
+  margin: auto;
+  align-items: center;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+.containerPublicoAlvo img {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+
+.containerPublicoAlvo p {
+  font-size: 15px;
+  color: #3FFFFF;
+}
 
