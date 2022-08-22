@@ -1,0 +1,109 @@
+.header {
+  display: flex;
+  background-image: url("./BG\ 1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  justify-content: center;
+}
+
+.sectionInfo{
+  display: flex;
+  flex-direction: column;
+  color: white;
+  width: 500px;
+  padding: 15px;
+  margin-right: 40px;
+}
+.imgPasip1 {
+  width: 400px;
+  height: 400px;
+  align-self: flex-end;
+}
+
+.h1IdSet {
+  margin-bottom: 50px;
+  font-size: 30px;
+}
+
+.buttonGarantir {
+  width: 200px;
+  height: 40px;
+  margin-top: 30px;
+  margin-bottom: 5px;
+  background: linear-gradient(90deg, #00ABDF 0%, #2DBC89 101.6%);
+  border: none;
+  border-radius: 5px;
+}
+
+.containerLogoIdSet {
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  margin-top: 20px;
+}
+
+.containerlistRed {
+  display: flex;
+  align-items: center;
+  width: 100px;
+}
+
+.list {
+  width: 10px;
+  height: 1px;
+  background-color: red;
+}
+
+.pTreinamento {
+  font-size: 7px;
+  padding-left: 5px;
+  color: #34D0D0;
+}
+
+.pCursoOnline {
+  display: inline-block;
+  color: #34D0D0;
+  font-size: 10px;
+  margin-left: 5px;
+}
+
+.h1Title {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.icon {
+  width: 10px;
+  height: 10px;
+}
+
+.containerCursoOnline {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.pFinal {
+  margin-bottom: 20px;
+  font-size: 10px;
+  margin-top: 5px;
+}
+
+.span {
+  text-decoration:line-through;
+}
+
+.pTextoExplicativo {
+  font-size: 15px;
+}
+
+.containerParagrafoEListAzul {
+  display: flex;
+}
+
+.listaAzul {
+  background: rgba(4, 199, 252, 1);
+  width: 3px;
+  height: 100%;
+  margin-right: 10px;
+}
