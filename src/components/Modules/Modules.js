@@ -1,15 +1,17 @@
 import styles from './Modules.module.css'
+import Seta from '../../assets/setas.png'
+import Icone from '../../assets/íconeModulo.png'
 
 export const Modules = () => {
   return (
     <section className={styles.modules}>
       <section className={styles.containerTitle}>
         <div className={styles.containerIconeModulos}>
-          <img src='/ícone - MÓDULOS (1).png' alt='Ícone Módulo' />
+          <img src={Icone} alt='Ícone Módulo' />
           <p>MÓDULOS</p>
           </div>
           <h2>Conheça o que será abordado no curso</h2>
-          <img className={styles.seta} src='/setas (1).png' alt='seta' />
+          <img className={styles.seta} src={Seta} alt='seta' />
       </section>
       <section className={styles.listaDeModulos}>
         <ul>
