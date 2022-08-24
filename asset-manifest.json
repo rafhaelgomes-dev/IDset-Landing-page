@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/IDset-Landing-page/static/css/main.696b905d.css",
-    "main.js": "/IDset-Landing-page/static/js/main.1cf0c1c9.js",
+    "main.js": "/IDset-Landing-page/static/js/main.920ef3fc.js",
     "static/js/787.2126b862.chunk.js": "/IDset-Landing-page/static/js/787.2126b862.chunk.js",
     "static/media/BG 1.jpg": "/IDset-Landing-page/static/media/BG 1.90ac9f9c72d57b37e79c.jpg",
     "static/media/FotoPasip1.png": "/IDset-Landing-page/static/media/FotoPasip1.7fee550f874cacc89c0c.png",
     "index.html": "/IDset-Landing-page/index.html",
     "main.696b905d.css.map": "/IDset-Landing-page/static/css/main.696b905d.css.map",
-    "main.1cf0c1c9.js.map": "/IDset-Landing-page/static/js/main.1cf0c1c9.js.map",
+    "main.920ef3fc.js.map": "/IDset-Landing-page/static/js/main.920ef3fc.js.map",
     "787.2126b862.chunk.js.map": "/IDset-Landing-page/static/js/787.2126b862.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.696b905d.css",
-    "static/js/main.1cf0c1c9.js"
+    "static/js/main.920ef3fc.js"
   ]
 }
