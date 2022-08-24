@@ -5,12 +5,14 @@
   linear-gradient(0deg, #515151, #515151);
   color: white;
   text-align: center;
+  width: 100%;
 }
 
 .containerImagens {
   display: flex;
   align-items: center;
   justify-content: center;
+ flex-wrap: wrap;
 }
 
 .divImagensTextos {
@@ -39,5 +41,11 @@
 .containerPublicoAlvo p {
   font-size: 15px;
   color: #3FFFFF;
+}
+
+.caixa1 {
+  background-color: rgba(52, 52, 52, 1);
+  width: 100px;
+  height: 100px;
 }
 

@@ -1,0 +1,64 @@
+.modules {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #131313;
+  color: white;
+}
+
+.containerIconeModulos {
+  display: flex;
+  align-items: center;
+}
+
+.containerIconeModulos img {
+  width: 15px;
+  margin-right: 8px;
+}
+
+.containerIconeModulos p {
+ color: #3FFFFF; 
+}
+
+.containerTitle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.containerTitle h2 {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.listaDeModulos {
+  width: 50%;
+  margin-bottom: 40px;
+}
+
+.listaDeModulos ul li {
+  border-bottom: 1px solid #515151;
+  margin-bottom: 10px;
+  padding: 15px;
+  width: 100%;
+}
+
+.seta {
+  position: relative;
+  animation-name: seta;
+  animation-duration: 1s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+@keyframes seta {
+  0% {
+    top: 0px;
+  }
+  100% {
+    top: 20px;
+  }
+}
