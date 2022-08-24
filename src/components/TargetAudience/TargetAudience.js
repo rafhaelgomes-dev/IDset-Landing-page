@@ -1,4 +1,8 @@
 import styles from "./TargetAudience.module.css"
+import Group51 from '../../assets/Group51.png';
+import Group52 from '../../assets/Group52.png';
+import Group53 from '../../assets/Group53.png';
+import BoxIdSet from '../../assets/boxIdSet.png';
 
 const TargetAudience = () => {
   return (
@@ -9,11 +13,11 @@ const TargetAudience = () => {
       </div>
       <h2>Para quem é o curso?</h2>
       <section className={styles.containerImagens}>
-      <img src="./boxIdSet.png" alt="box IDset" />
+      <img src={BoxIdSet} alt="box IDset" />
       <div className={styles.divImagensTextos}>
-      <img src="./Group51.png" alt="Group51" />
-      <img src="./Group52.png" alt="Group52" />
-      <img src="./Group53.png" alt="Group53" />
+      <img src={Group51} alt="Group51" />
+      <img src={Group52} alt="Group52" />
+      <img src={Group53} alt="Group53" />
       </div>
       </section>
     </section>
