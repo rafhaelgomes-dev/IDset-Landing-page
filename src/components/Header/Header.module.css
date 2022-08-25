@@ -38,6 +38,12 @@
   text-decoration: none;
   color: white;
   font-size: 12px;
+  transition: 1s;
+}
+
+.buttonGarantir:hover {
+  background: linear-gradient(90deg, #2DBC89 0%, #00ABDF 101.6%);
+   transition: 1s !important;
 }
 
 .containerLogoIdSet {
