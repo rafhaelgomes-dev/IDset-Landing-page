@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/IDset-Landing-page/static/css/main.5100b803.css",
-    "main.js": "/IDset-Landing-page/static/js/main.61794617.js",
+    "main.js": "/IDset-Landing-page/static/js/main.739867ac.js",
     "static/js/787.2126b862.chunk.js": "/IDset-Landing-page/static/js/787.2126b862.chunk.js",
     "static/media/BG 1.jpg": "/IDset-Landing-page/static/media/BG 1.90ac9f9c72d57b37e79c.jpg",
     "static/media/FotoPasip1.png": "/IDset-Landing-page/static/media/FotoPasip1.7fee550f874cacc89c0c.png",
@@ -11,11 +11,11 @@
     "static/media/Group53.png": "/IDset-Landing-page/static/media/Group53.4502226ef6dcbdf5cc8a.png",
     "index.html": "/IDset-Landing-page/index.html",
     "main.5100b803.css.map": "/IDset-Landing-page/static/css/main.5100b803.css.map",
-    "main.61794617.js.map": "/IDset-Landing-page/static/js/main.61794617.js.map",
+    "main.739867ac.js.map": "/IDset-Landing-page/static/js/main.739867ac.js.map",
     "787.2126b862.chunk.js.map": "/IDset-Landing-page/static/js/787.2126b862.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5100b803.css",
-    "static/js/main.61794617.js"
+    "static/js/main.739867ac.js"
   ]
 }
