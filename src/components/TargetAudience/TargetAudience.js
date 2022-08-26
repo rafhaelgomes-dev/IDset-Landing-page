@@ -3,12 +3,13 @@ import Group51 from '../../assets/Group51.png';
 import Group52 from '../../assets/Group52.png';
 import Group53 from '../../assets/Group53.png';
 import BoxIdSet from '../../assets/boxIdSet.png';
+import Icone from '../../assets/íconePublicoAlvo.png'
 
 const TargetAudience = () => {
   return (
     <section className={styles.targetAudience}>
       <div className={styles.containerPublicoAlvo}>
-        <img src="ícone - PÚBLICO-ALVO.png" alt="icone publico alvo" />
+        <img src={Icone} alt="icone publico alvo" />
       <p>PÚBLICO ALVO</p>
       </div>
       <h2>Para quem é o curso?</h2>
