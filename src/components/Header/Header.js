@@ -21,7 +21,7 @@ const Header = () => {
           <div className={styles.listaAzul}/>
         <p className={styles.pTextoExplicativo}>IDset é o treinamento ideal para que você possa dominar de uma vez por todas o uso das redes sociais e colher bons resultados do mundo digital.</p>
         </div>
-        <a href="#about" className={styles.buttonGarantir}>GARANTIR MINHA VAGA</a>
+        <a href="#Investment" className={styles.buttonGarantir}>GARANTIR MINHA VAGA</a>
         <p className={styles.pFinal}>De <span className={styles.span}>R$ 169,00</span> por 6x de R$ 22,90 ou R$ 97,00 à vista.</p>
       </section>
         <img src={FotoPasip1} alt="foto Pasip" className={styles.imgPasip1} />

@@ -1,0 +1,103 @@
+.InvestimentContainer {
+  background-image: url(../../assets/BG\ 6.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  display: flex ;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tabelas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+.tabela1 {
+  background-image: url(../../assets/tabela.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 40px;
+  width: 400px;
+  margin-top: 40px;
+  margin-left: 20px;
+  border-radius: 8px 8px 0px 0px ;
+  margin-right: 10px;
+  margin-bottom: 70px;
+  margin-right: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+  color: white;
+  align-items: center;
+}
+
+.imgLogo {
+  margin-bottom: 30px;
+}
+
+.imgLine {
+  margin-bottom: 30px;
+}
+
+.tabela1 span {
+  text-decoration: line-through;
+}
+
+.p1 {
+  margin-bottom: 15px;
+}
+
+.p2 {
+  margin-bottom: 15px;
+} 
+
+.tabela1 h1 {
+  color: #3FFFFF;
+  margin-bottom: 15px;
+}
+
+.buttonGarantir {
+  background: linear-gradient(90deg, #00ABDF 0%, #2DBC89 101.6%);
+  width: 200px;
+  padding: 10px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 5px;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+  font-size: 12px;
+  transition: 1s;
+}
+
+
+.tabela1 h2 {
+  margin-bottom: 25px;
+  font-size: 25px;
+}
+
+.tabela1 ul {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.tabela1 li {
+  margin-top: 20px;
+}
+
+.logoInvest {
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+
+.InvestimentContainer h1 {
+  margin-bottom: 20px;
+}
