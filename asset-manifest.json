@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/IDset-Landing-page/static/css/main.afe47a2d.css",
-    "main.js": "/IDset-Landing-page/static/js/main.8f59a861.js",
+    "main.css": "/IDset-Landing-page/static/css/main.67fa0455.css",
+    "main.js": "/IDset-Landing-page/static/js/main.3feb822e.js",
     "static/js/787.2126b862.chunk.js": "/IDset-Landing-page/static/js/787.2126b862.chunk.js",
     "static/media/BG 1.jpg": "/IDset-Landing-page/static/media/BG 1.90ac9f9c72d57b37e79c.jpg",
     "static/media/BG 6.png": "/IDset-Landing-page/static/media/BG 6.28acbc41f32e3973cec8.png",
@@ -17,12 +17,12 @@
     "static/media/logoInvest.svg": "/IDset-Landing-page/static/media/logoInvest.6748c23a78f7bcb6d1ca240d24e07278.svg",
     "index.html": "/IDset-Landing-page/index.html",
     "static/media/Line.svg": "/IDset-Landing-page/static/media/Line.93aac610ae1b98fc08c7051dfacd56cb.svg",
-    "main.afe47a2d.css.map": "/IDset-Landing-page/static/css/main.afe47a2d.css.map",
-    "main.8f59a861.js.map": "/IDset-Landing-page/static/js/main.8f59a861.js.map",
+    "main.67fa0455.css.map": "/IDset-Landing-page/static/css/main.67fa0455.css.map",
+    "main.3feb822e.js.map": "/IDset-Landing-page/static/js/main.3feb822e.js.map",
     "787.2126b862.chunk.js.map": "/IDset-Landing-page/static/js/787.2126b862.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.afe47a2d.css",
-    "static/js/main.8f59a861.js"
+    "static/css/main.67fa0455.css",
+    "static/js/main.3feb822e.js"
   ]
 }
