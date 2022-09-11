@@ -1,0 +1,8 @@
+.containerAbout {
+  height: 72px;
+  background-color: #2C2C2C;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}

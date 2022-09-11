@@ -1,4 +1,4 @@
-import { About } from "../components/About/About";
+import { Footer } from "../components/footer/Footer";
 import { AboutTheCourse } from "../components/AboutTheCourse/AboutTheCourse";
 import Header from "../components/Header/Header";
 import { Investment } from "../components/Investment/Investment";
@@ -11,8 +11,8 @@ const Home = () => {
      <TargetAudience />
      <Modules />
      <AboutTheCourse />
-     <About />
      <Investment />
+     <Footer />
     </div>
   )
 }
