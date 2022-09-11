@@ -32,15 +32,27 @@
 
 @media screen and (max-width: 586px) {
   .divImagensTextos img {
-    max-width: 400px;
+    max-width: 450px;
   }
 }
 
-@media screen and (max-width: 586px) {
+@media screen and (max-width: 491px) {
+  .divImagensTextos img {
+    max-width: 380px;
+  }
+}
+
+@media screen and (max-width: 407px) {
+  .divImagensTextos img {
+    max-width: 330px;
+  }
+}
+
+/* @media screen and (max-width: 586px) {
   .divImagensTextos img {
     max-width: 350px;
   }
-}
+} */
 
 .containerPublicoAlvo {
   display: flex;
@@ -67,3 +79,21 @@
   height: 100px;
 }
 
+@media screen and (max-width: 586px) {
+  .imgBox {
+    width: 400px;
+  }
+}
+
+
+@media screen and (max-width: 439px) {
+  .imgBox {
+    width: 360px;
+  }
+}
+
+@media screen and (max-width: 393px) {
+  .imgBox {
+    width: 300px;
+  }
+}

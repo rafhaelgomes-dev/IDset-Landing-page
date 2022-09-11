@@ -21,6 +21,14 @@
   align-self: flex-end;
 }
 
+@media screen and (max-width: 387px) {
+  .imgPasip1 {
+    width: 300px;
+    height: 300px;
+  }
+}
+
+
 .h1IdSet {
   margin-bottom: 50px;
   font-size: 30px;

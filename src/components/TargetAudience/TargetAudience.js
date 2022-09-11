@@ -14,7 +14,7 @@ const TargetAudience = () => {
       </div>
       <h2>Para quem é o curso?</h2>
       <section className={styles.containerImagens}>
-      <img src={BoxIdSet} alt="box IDset" />
+      <img src={BoxIdSet} alt="box IDset" className={styles.imgBox}/>
       <div className={styles.divImagensTextos}>
       <img src={Group51} alt="Group51" />
       <img src={Group52} alt="Group52" />
