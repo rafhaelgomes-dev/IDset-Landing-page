@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "/IDset-Landing-page/static/css/main.5100b803.css",
-    "main.js": "/IDset-Landing-page/static/js/main.739867ac.js",
+    "main.css": "/IDset-Landing-page/static/css/main.afe47a2d.css",
+    "main.js": "/IDset-Landing-page/static/js/main.8f59a861.js",
     "static/js/787.2126b862.chunk.js": "/IDset-Landing-page/static/js/787.2126b862.chunk.js",
     "static/media/BG 1.jpg": "/IDset-Landing-page/static/media/BG 1.90ac9f9c72d57b37e79c.jpg",
+    "static/media/BG 6.png": "/IDset-Landing-page/static/media/BG 6.28acbc41f32e3973cec8.png",
     "static/media/FotoPasip1.png": "/IDset-Landing-page/static/media/FotoPasip1.7fee550f874cacc89c0c.png",
+    "static/media/BG 4.png": "/IDset-Landing-page/static/media/BG 4.d3de4dcf2e1730c0f0fb.png",
+    "static/media/fotoPasip.png": "/IDset-Landing-page/static/media/fotoPasip.0028fe24d0ff00bb9684.png",
+    "static/media/tabela.png": "/IDset-Landing-page/static/media/tabela.bee36cf4c4bcc394a302.png",
     "static/media/boxIdSet.png": "/IDset-Landing-page/static/media/boxIdSet.f23ad495b64f7c2ccfea.png",
     "static/media/Group51.png": "/IDset-Landing-page/static/media/Group51.f5bf966b987cf43cdc0f.png",
     "static/media/Group52.png": "/IDset-Landing-page/static/media/Group52.e48154261b6e5b836d2a.png",
     "static/media/Group53.png": "/IDset-Landing-page/static/media/Group53.4502226ef6dcbdf5cc8a.png",
+    "static/media/LogoIDset.svg": "/IDset-Landing-page/static/media/LogoIDset.09fb3855363ff9ca98a1d0ebd9c2b250.svg",
+    "static/media/logoInvest.svg": "/IDset-Landing-page/static/media/logoInvest.6748c23a78f7bcb6d1ca240d24e07278.svg",
     "index.html": "/IDset-Landing-page/index.html",
-    "main.5100b803.css.map": "/IDset-Landing-page/static/css/main.5100b803.css.map",
-    "main.739867ac.js.map": "/IDset-Landing-page/static/js/main.739867ac.js.map",
+    "static/media/Line.svg": "/IDset-Landing-page/static/media/Line.93aac610ae1b98fc08c7051dfacd56cb.svg",
+    "main.afe47a2d.css.map": "/IDset-Landing-page/static/css/main.afe47a2d.css.map",
+    "main.8f59a861.js.map": "/IDset-Landing-page/static/js/main.8f59a861.js.map",
     "787.2126b862.chunk.js.map": "/IDset-Landing-page/static/js/787.2126b862.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5100b803.css",
-    "static/js/main.739867ac.js"
+    "static/css/main.afe47a2d.css",
+    "static/js/main.8f59a861.js"
   ]
 }
