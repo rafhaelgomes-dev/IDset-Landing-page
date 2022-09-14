@@ -1,11 +1,11 @@
 # IDset Landing Page
 
-Página de venda de um curso para Instagram e gestão de tráfego que desenvolvi para um amigo, o figma foi feito por um UX UI Designer.
+Página de vendas para um curso de Instagram e gestão de tráfego que desenvolvi, o figma foi feito e disponibilizado por um UX/UI Designer.
 
 <hr></hr>
 
 ## 🛠 Habilidades
-React.js, CSS.
+React.js, CSS module.
 
 <hr></hr>
 
